@@ -1,7 +1,7 @@
 {
     "token": "NDEzMTE5MzM2MTY5ODY1MjE2.DWUTzA.v44_o3S4UVTfu2q53v0SFwg-QbM",
     "prefix": "/",
-    "embed":{
+    "embed": {
         "title": "Rolador de dados",
         "author": {
             "image": "http://static.tvtropes.org/pmwiki/pub/images/dice.png",
@@ -12,18 +12,19 @@
             "text": "BOT roller 0.1v"
         },
         "thumbnail_image": "https://i.pinimg.com/736x/62/80/74/628074ec6ef2972ceec960d402c3acab--game-pieces-pencil-sharpener.jpg",
-        "sucess":{
+        "sucess": {
             "color": "#0000FF",
             "message": "Sucesso!"
         },
-        "fail":{
+        "fail": {
             "color": "#FFFF00",
             "message": "Falha."
         },
-        "botch":{
+        "botch": {
             "color": "#FF0000",
             "message": "Falha crítica!"
         }
-    }
+    },
+    "empty_circle": "○",
+    "filled_circle": "●"
 }
-
